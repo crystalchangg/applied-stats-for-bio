@@ -1,7 +1,7 @@
 # applied-stats-for-bio
 sta100
 link to project: [https://docs.google.com/document/d/176EWzqu7hr3_hF4kdtniHyNafnwa_SuP93R3MSV2m34/edit?usp=sharing](url)
-[insurancesta100projectdataset.csv](https://github.com/user-attachments/files/22062011/insurancesta100projectdataset.csv)
+dataset: [insurancesta100projectdataset.csv](https://github.com/user-attachments/files/22062011/insurancesta100projectdataset.csv)
 
 ---
 title: "Health Insurance Charges"
