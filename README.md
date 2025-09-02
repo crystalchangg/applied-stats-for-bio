@@ -1,6 +1,9 @@
 # applied-stats-for-bio
 sta100
-link to project: https://docs.google.com/document/d/176EWzqu7hr3_hF4kdtniHyNafnwa_SuP93R3MSV2m34/edit?usp=sharing
+
+
+[STA100_Group_Project_Healthcare Insurance.pdf](https://github.com/user-attachments/files/22087991/STA100_Group_Project_Healthcare.Insurance.pdf)
+
 
 dataset: [insurancesta100projectdataset.csv](https://github.com/user-attachments/files/22062011/insurancesta100projectdataset.csv)
 
